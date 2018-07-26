@@ -1,1 +1,1 @@
-# Autoencoders_fraud_detection
+# Autoencoders for credit card fraud detection
